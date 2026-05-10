@@ -1,0 +1,16 @@
+2026-05-10 11:57:06 | INFO     | bot | Database initialized.
+2026-05-10 11:57:06 | INFO     | bot | Starting bot polling...
+2026-05-10 11:57:07 | INFO     | aiogram.dispatcher | Start polling
+2026-05-10 11:57:07 | INFO     | aiogram.dispatcher | Run polling for bot @music_vision_bot id=8679290482 - 'Maga_bot'
+2026-05-10 11:57:19 | INFO     | bot | New user registered: 8717695845 @maga_m25
+2026-05-10 11:57:54 | ERROR    | bot | yt-dlp download error: [0;31mERROR:[0m [youtube] We2IXd-tJrY: Requested format is not available. Use --list-formats for a list of available formats
+2026-05-10 11:59:11 | ERROR    | bot | shazamio not installed. Run: pip install shazamio
+2026-05-10 11:59:53 | INFO     | aiogram.dispatcher | Polling stopped
+2026-05-10 11:59:53 | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-05-10 11:59:53 | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8679290482)
+2026-05-10 11:59:54 | INFO     | bot | Bot stopped.
+2026-05-10 11:59:54 | INFO     | aiogram.dispatcher | Polling stopped for bot @music_vision_bot id=8679290482 - 'Maga_bot'
+2026-05-10 12:03:12 | INFO     | bot | Database initialized.
+2026-05-10 12:03:12 | INFO     | bot | Starting bot polling...
+2026-05-10 12:03:13 | INFO     | aiogram.dispatcher | Start polling
+2026-05-10 12:03:13 | INFO     | aiogram.dispatcher | Run polling for bot @music_vision_bot id=8679290482 - 'Maga_bot'
